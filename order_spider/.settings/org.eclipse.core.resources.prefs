@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//datas/my_books/output_my_booklist.html=gbk
+encoding//src/common/chrome_cookie.py=GB18030
+encoding//src/common/excel_utils.py=gbk
+encoding//src/conf/project_paths.py=GB18030
+encoding//src/cookies/jd_cookies.py=GB18030
+encoding//src/outputers/generate_my_booklist.py=gbk

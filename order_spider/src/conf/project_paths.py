@@ -21,3 +21,7 @@ JD_URL_LIST_FILE = "%s/jd_url_list.txt" % URL_FILE_DIR
 
 # jd data dir
 JD_DATA_DIR = "%s/output/jd_data" % PROJECT_DATA_DIR
+
+# my book list excel
+MY_BOOK_LIST_EXCEL = "%s/my_books/input_my_booklist.xlsx" % PROJECT_DATA_DIR
+MY_BOOK_LIST_OUTHTML = "%s/my_books/output_my_booklist.html" % PROJECT_DATA_DIR
