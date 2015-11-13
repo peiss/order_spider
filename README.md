@@ -25,4 +25,7 @@
 4、复制HTML中的内容，到博客文章页面即可
 <br/>
 
+<br/>
+生成的效果地址：<br/>
+http://www.crazyant.net/my_book_list
 
