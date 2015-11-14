@@ -1,7 +1,7 @@
 # coding: GB18030
 
 # project dir
-PROJECT_DIR = "D:/workbench/git/order_spider/order_spider"
+PROJECT_DIR = "D:/workbench/python/order_spider/order_spider"
 
 # project codes dir
 PROJECT_CODES_DIR = "%s/src" % PROJECT_DIR

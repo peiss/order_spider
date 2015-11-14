@@ -1,4 +1,4 @@
-# coding: gbk
+# coding: gb18030
 
 from conf import project_paths
 from common import excel_utils
@@ -16,11 +16,11 @@ def read_books_by_type(book_list):
     """
     books = {}
     for data in book_list:
-        reading_type = data[0].encode('gbk')
+        reading_type = data[0].encode('gb18030')
         if reading_type not in books:
             books[reading_type] = []
-        book_name = data[1].encode('gbk')
-        book_author = data[2].encode('gbk')
+        book_name = data[1].encode('gb18030')
+        book_author = data[2].encode('gb18030')
         books[reading_type].append((book_name, book_author))
     return books
 

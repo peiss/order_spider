@@ -1,4 +1,4 @@
-# coding: gbk
+# coding: gb18030
 import xlrd
 
 def read_excel_to_list(excel_file_path):
